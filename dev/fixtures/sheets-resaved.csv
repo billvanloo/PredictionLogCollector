@@ -1,0 +1,5 @@
+schema,schemaVersion,tool,toolVersion,student,team,classPeriod,problemId,quantity,unit,predicted,model,measured,pctPredVsModel,pctMeasVsModel,attempt,timestamp,inputs,note
+prediction-log,1,Shaft and Beam Workbench,1.0.0,"O'Brien, Ana ""AJ""",,,SB-6,safety factor n,,3.8,4.0975,3.5,-7.260524710189148,-14.58206223306895,1,10/1/2026 14:33:00,"{""values"":{""d"":0.02,""L"":0.3},""units"":{""d"":""m"",""L"":""m""}}","Friction, ""maybe""."
+prediction-log,1,Shaft and Beam Workbench,1.0.0,Bo,,,SB-6,safety factor n,,4.2,4.0975,,2.5015253203172674,,2,10/1/2026 14:34:00,"{""values"":{},""units"":{}}",
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,

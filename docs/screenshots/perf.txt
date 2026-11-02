@@ -1,0 +1,1 @@
+PL-10: 500 files, 20,000 records, load + summarize + draw in the browser: 238 ms; filter change: 88 ms
